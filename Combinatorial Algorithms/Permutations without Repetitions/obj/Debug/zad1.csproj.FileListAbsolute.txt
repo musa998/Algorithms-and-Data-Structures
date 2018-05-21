@@ -1,0 +1,7 @@
+D:\My projects\FMI\ASD\zad1\bin\Debug\zad1.exe.config
+D:\My projects\FMI\ASD\zad1\bin\Debug\zad1.exe
+D:\My projects\FMI\ASD\zad1\bin\Debug\zad1.pdb
+D:\My projects\FMI\ASD\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+D:\My projects\FMI\ASD\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\My projects\FMI\ASD\zad1\obj\Debug\zad1.exe
+D:\My projects\FMI\ASD\zad1\obj\Debug\zad1.pdb
