@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zad2
+namespace SubsetSum
 {
     class Program
     {
@@ -46,7 +46,6 @@ namespace zad2
                             Variations(index + 1,  n, k, vector, used);
                             used[j] = false;
                         }
-                       
                     }
                 }
                
