@@ -1,0 +1,7 @@
+D:\My projects\FMI\ASD\Test\bin\Debug\Test.exe.config
+D:\My projects\FMI\ASD\Test\bin\Debug\Test.exe
+D:\My projects\FMI\ASD\Test\bin\Debug\Test.pdb
+D:\My projects\FMI\ASD\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\My projects\FMI\ASD\Test\obj\Debug\Test.exe
+D:\My projects\FMI\ASD\Test\obj\Debug\Test.pdb
+D:\My projects\FMI\ASD\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
