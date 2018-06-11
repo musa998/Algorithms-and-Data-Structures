@@ -1,0 +1,7 @@
+D:\My projects\FMI\ASD\TestPipes\bin\Debug\TestPipes.exe.config
+D:\My projects\FMI\ASD\TestPipes\bin\Debug\TestPipes.exe
+D:\My projects\FMI\ASD\TestPipes\bin\Debug\TestPipes.pdb
+D:\My projects\FMI\ASD\TestPipes\obj\Debug\TestPipes.csprojResolveAssemblyReference.cache
+D:\My projects\FMI\ASD\TestPipes\obj\Debug\TestPipes.csproj.CoreCompileInputs.cache
+D:\My projects\FMI\ASD\TestPipes\obj\Debug\TestPipes.exe
+D:\My projects\FMI\ASD\TestPipes\obj\Debug\TestPipes.pdb
