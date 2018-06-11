@@ -1,0 +1,7 @@
+D:\My projects\FMI\ASD\Diamonts\bin\Debug\Diamonts.exe.config
+D:\My projects\FMI\ASD\Diamonts\bin\Debug\Diamonts.exe
+D:\My projects\FMI\ASD\Diamonts\bin\Debug\Diamonts.pdb
+D:\My projects\FMI\ASD\Diamonts\obj\Debug\Diamonts.csprojResolveAssemblyReference.cache
+D:\My projects\FMI\ASD\Diamonts\obj\Debug\Diamonts.csproj.CoreCompileInputs.cache
+D:\My projects\FMI\ASD\Diamonts\obj\Debug\Diamonts.exe
+D:\My projects\FMI\ASD\Diamonts\obj\Debug\Diamonts.pdb
